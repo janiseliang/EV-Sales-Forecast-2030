@@ -1,4 +1,4 @@
-# Stat 157 Final Project Code
+# EV Sales Share Forecast (2030)
 
 This repository contains jupyter notebooks for Janise and Akshit's Stat 157 (Forecasting Class) final project.
 We created a forecast for the **EV sales share of all cars sold in the United States in the year 2030**.
